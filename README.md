@@ -27,8 +27,12 @@ Welcome to the official repository for FanCoin (FAN)!
 
 ## Links
 - [PancakeSwap Listing](https://pancakeswap.finance/?outputCurrency=0x5d5a3C9E06Dc93219B4FF9714FaE757EAC55200b)
-- [White Paper](link_here)
+- [White Paper]((docs/whitepaper.md)
 - [Twitter](https://x.com/FanCoinCrypto)
+
+
+Read the full white paper [here](docs/whitepaper.md).  
+Or download it as a [PDF](docs/whitepaper.pdf).
 
 
 ## Frequently Asked Questions (FAQ)
