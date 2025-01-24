@@ -25,3 +25,12 @@
 - [PancakeSwap Listing](https://pancakeswap.finance/?outputCurrency=0x5d5a3C9E06Dc93219B4FF9714FaE757EAC55200b)
 - [White Paper](link_here)
 - [Twitter](https://x.com/FanCoinCrypto)
+
+
+## Frequently Asked Questions (FAQ)
+
+### What is FanCoin (FAN)?
+FanCoin is a cryptocurrency designed to connect influencers with their communities, allowing fans to support influencers by purchasing and using FAN tokens.
+
+### How do I buy FanCoin?
+You can purchase FAN tokens on [PancakeSwap](https://pancakeswap.finance/) using this contract address: `0x5d5a3C9E06Dc93219B4FF9714FaE757EAC55200b`.
