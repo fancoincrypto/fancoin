@@ -24,4 +24,4 @@
 ## Links
 - [PancakeSwap Listing](https://pancakeswap.finance/?outputCurrency=0x5d5a3C9E06Dc93219B4FF9714FaE757EAC55200b)
 - [White Paper](link_here)
-- [Twitter]((https://x.com/FanCoinCrypto))
+- [Twitter](https://x.com/FanCoinCrypto)
