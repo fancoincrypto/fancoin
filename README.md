@@ -1,6 +1,6 @@
 # FanCoin (FAN)
 
-![FanCoin Logo](https://github.com/<your-username>/<your-repository>/blob/main/logo.png?raw=true)
+![FanCoin Logo](https://github.com/fancoincrypto/fancoin/blob/main/logo.png?raw=true)
 
 Welcome to the official repository for FanCoin (FAN)!
 **The ultimate fan token for influencers and their communities.**
